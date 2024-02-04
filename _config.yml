@@ -42,3 +42,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+domain_redirect: https://sierra47-webapps-redirect.azurewebsites.net/
